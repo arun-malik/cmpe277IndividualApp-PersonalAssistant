@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PersonalAssistant</string>
+    <string name="action_settings">Settings</string>
+    <string name="btSpeak">Speak</string>
+    <string name="etSearchHint">Speak to search / open apps on your Phone \n 
+        1. Search "Google"\n 
+        2. Open Camera \n
+        3. Message "I'm fine"\n 
+        4. create EVENT "job fair"\n
+        5. Open "Application Name"\n
+        6. Call  \n 
+        </string>
+        
+    <string name="tvTextMatches"></string>
+
+</resources>
